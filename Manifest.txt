@@ -1,0 +1,9 @@
+History.md
+Manifest.txt
+README.md
+Rakefile
+bin/helpers
+lib/helpers.rb
+lib/helpers/array.rb
+lib/helpers/string.rb
+test/test_helpers.rb

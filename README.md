@@ -1,28 +1,28 @@
-= helpers
+# helpers
 
 * http://somewhere.com
 
-== DESCRIPTION:
+## DESCRIPTION:
 
 FIX (describe your package)
 
-== FEATURES/PROBLEMS:
+## FEATURES/PROBLEMS:
 
 * FIX (list of features or problems)
 
-== SYNOPSIS:
+## SYNOPSIS:
 
   FIX (code sample of usage)
 
-== REQUIREMENTS:
+## REQUIREMENTS:
 
 * FIX (list of requirements)
 
-== INSTALL:
+## INSTALL:
 
 * FIX (sudo gem install, anything else)
 
-== DEVELOPERS:
+## DEVELOPERS:
 
 After checking out the source, run:
 
@@ -31,7 +31,7 @@ After checking out the source, run:
 This task will install any missing dependencies, run the tests/specs,
 and generate the RDoc.
 
-== LICENSE:
+## LICENSE:
 
 (The MIT License)
 
